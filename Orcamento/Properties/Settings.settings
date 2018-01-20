@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Orcamento.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="logotipo" Description="Variavel de logotipo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">vazio</Value>
+    </Setting>
+    <Setting Name="nomeEmp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Nome da sua empresa</Value>
+    </Setting>
+    <Setting Name="enderecoEmp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Endereço da sua empresa</Value>
+    </Setting>
+    <Setting Name="foneEmp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">(16)3123 3123</Value>
+    </Setting>
+    <Setting Name="dataUltAtualizacao" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2016-10-15</Value>
+    </Setting>
+    <Setting Name="textoRodape" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="comRodape" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="connectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SQLiteDB.db</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
